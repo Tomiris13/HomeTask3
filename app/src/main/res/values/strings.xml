@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerViewHomeWork</string>
+    <string name="almaty">Almaty</string>
+    <string name="turkistan">Turkistan</string>
+    <string name="taraz">Taraz</string>
+    <string name="tashkent">Tashkent</string>
+    <string name="petropavl">Petropavl</string>
+    <string name="shymkent">Shymkent</string>
+    <string name="nursultan">Nur-Sultan</string>
+    <string name="semey">Semey</string>
+    <string name="kyzylorda">Kyzylorda</string>
+    <string name="oskemen">Oskemen</string>
+    <string name="oral">Oral</string>
+    <string name="atyrau">Atyrau</string>
+    <string name="aktau">Aktau</string>
+    <string name="pavlodar">Pavlodar</string>
+    <string name="aktobe">Aktobe</string>
+    <string name="kostanay">Kostanay</string>
+
+
+</resources>
